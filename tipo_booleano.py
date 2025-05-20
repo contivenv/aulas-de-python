@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ativo = True
 
 print(ativo)
@@ -37,7 +36,6 @@ True and False = False
 False and True = False
 False and False = True
 """
-=======
 ativo = True
 
 print(ativo)
@@ -76,5 +74,4 @@ True and False = False
 False and True = False
 False and False = True
 """
->>>>>>> a9dd207ff78b65dd8288231ed0cb17996361b182
  

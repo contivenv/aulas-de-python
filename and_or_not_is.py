@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """
 Estruturas lógicas: and (e), or (ou), not (não), is (é)
 
@@ -181,7 +181,6 @@ Por que usar is em vez de ==?
 lista1 = [1, 2]
 lista2 = [1, 2]
 print(lista1 == lista2)  # True (valores iguais)
-=======
 """
 Estruturas lógicas: and (e), or (ou), not (não), is (é)
 
@@ -364,5 +363,4 @@ Por que usar is em vez de ==?
 lista1 = [1, 2]
 lista2 = [1, 2]
 print(lista1 == lista2)  # True (valores iguais)
->>>>>>> a9dd207ff78b65dd8288231ed0cb17996361b182
 print(lista1 is lista2)  # False (objetos diferentes)

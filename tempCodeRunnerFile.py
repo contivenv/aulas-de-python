@@ -1,1 +1,1 @@
-print('Sua média é{}'.format(media)) # formatando o conteúdo da variável para que ela apareça dentro da chave
+print(sum(valores)) # função de soma
